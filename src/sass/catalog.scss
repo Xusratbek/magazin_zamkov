@@ -1,0 +1,26 @@
+.up{
+    width: 1440px;
+    height: 600px;
+    border: 1px solid;
+
+
+    .kategoriya{
+        font-weight: 600;
+        font-size: 44px;
+        line-height: 62px;
+        text-align: center;
+    }
+    .obj{
+        display: flex;
+        gap: 40px;
+    }
+    .plus{
+        width: 288px;
+        height: 342px;
+        background-color: white;
+        
+        .nb{
+            text-align: center;
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "nashiy-product":[
+        {
+            "productName":"Golden Soft GS-200Z-5 для офиса",
+            "price":33000,
+            "images":[
+                {
+                    "img1":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-5-11.jpg",
+                    "img2":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-5-1.jpg",
+                    "img3":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-5-3.jpg",
+                    "img4":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-5-4.jpg"
+                }
+            ],
+            "desc1":"Замок дверной электронный Golden Soft GS-200Z-5 имеет роскошный глянцевый блеск, четкие линии, красивые формы.",
+            "desc2":"Подходит для установки на деревянную/межкомнатную дверь."
+    },
+
+    {
+        "productName":"Вариативный электронный замок Golden Soft GS-A210 для отеля",
+        "price":9000,
+        "category":"oteley",
+        "images":[
+            {
+                "img1":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-gs-a210-2.jpg",
+                "img2":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-gs-a210-3.jpg",
+                "img3":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-gs-a210-6.jpg",
+                "img4":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-gs-a210-4.jpg",
+                "img5":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-gs-a210-5.jpg"
+            }
+        ],
+        "desc1":"Вариативный электронный замок Golden Soft GS-A210 имеет роскошный глянцевый блеск, четкие линии, красивые формы – этот замок сразу заявляет о своем высоком статусе.",
+        "desc2":"Подходит для установки на деревянную/межкомнатную дверь."
+    },
+    {
+        "productName":"Вариативный электронный замок Golden Soft GS-DSB101 для отеля",
+        "price":7000,
+        "category":"oteley",
+        "images":[
+            {
+                "img1":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-dsb101-gold.jpg",
+                "img2":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-dsb101-silver.jpg",
+                "img3":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-dsb101-black.jpg",
+                "img4":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-dsb101-all-2.jpg",
+                "img5":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-dsb101-all-1.jpg",
+                "img6":"https://goldensoft.tech/wp-content/uploads/2021/05/dsb101.png"
+            }
+        ],
+        "desc1":"SMART-замок Golden Soft GS-DSB101 имеет стильный и лаконичный дизайн корпуса, три цветовых варианта исполнения, функциональность и удобство в работе.",
+        "desc2":"Подходит для установки на деревянную/межкомнатную дверь."
+    },
+    {
+        "productName":"Замок дверной электронный Golden Soft GS-200Z-6 для отеля",
+        "price":32000,
+        "category":"oteley",
+        "images":[
+            {
+                "img1":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-6-1.jpg",
+                "img2":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-6-2.jpg",
+                "img3":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-6-4.jpg",
+                "img4":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-6-3.jpg",
+                "img5":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-6-3.jpg",
+                "img6":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-200z-6-5.jpg"
+            }
+        ],
+        "desc1":"Электронный дверной замок Golden Soft GS-200Z-6 имеет роскошный глянцевый блеск, четкие линии, красивые формы – этот замок сразу заявляет о своем высоком статусе.",
+        "desc2":"Подходит для установки на деревянную/межкомнатную дверь."
+        
+        
+    },
+    {
+        "productName":"Дверной замок Golden Soft GS-65T для офиса",
+        "price":10000,
+        "images":[
+            {
+                "img1":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-65t-2.jpg",
+                "img2":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-65t-6-scaled.jpg",
+                "img3":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-65t-5-scaled.jpg",
+                "img4":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-65t-4.jpg",
+                "img5":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-65t-3.jpg"
+            }
+        ],
+        "desc1":" Функционален, удобен в работе и легок в уходе: для сохранения блеска достаточно лишь протереть поверхность салфеткой.",
+        "desc2":"Подходит для установки на деревянную/межкомнатную дверь."
+    },
+    {
+        "productName":"Замок дверной электронный Golden Soft GS-35A для отеля",
+        "price":11000,
+        "category":"oteley",
+        "images":[
+            {
+                "img1":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-35a.jpg",
+                "img2":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-35a-4.jpg",
+                "img3":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-35a-5.jpg",
+                "img4":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-35a-2.jpg",
+                "img5":"https://goldensoft.tech/wp-content/uploads/2021/05/smart-lock-door-gs-35a-3.jpg"
+            }
+        ],
+        "desc1":"Замок дверной электронный Golden Soft GS-35A имеет роскошный глянцевый блеск, четкие линии, красивые формы – этот замок сразу заявляет о своем высоком статусе.",
+        "desc2":"Изысканный цвет корпуса мгновенно притягивает взгляды."
+    },
+    {
+        "productName":"Вариативный электронный замок Golden Soft GS-DSB621 для отеля",
+        "price":9000,
+        "category":"oteley",
+        "images":[
+            {
+                "img1":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-dsb621-med.jpg",
+                "img2":"https://goldensoft.tech/wp-content/uploads/2021/05/dsb621-med.png"
+            }
+        ],
+        "desc1":"SMART-замок Golden Soft GS-DSB621 имеет стильный и лаконичный дизайн корпуса, три цветовых варианта исполнения, функциональность и удобство в работе.",
+        "desc2":"Корпус электронного замка изготавливается из высококачественных материалов с надежным механизмом, обеспечивающим многолетнюю и безопасную работу."
+    },
+    {
+        "productName":"Вариативный электронный замок Golden Soft GS-H-2030 для отеля",
+        "price":5500,
+        "category":"oteley",
+        "images":[
+            {
+                "img1":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-h-2030-3.jpg",
+                "img2":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-h-2030-4.jpg",
+                "img3":"https://goldensoft.tech/wp-content/uploads/2021/05/skud-h-2030-6.jpg"
+            }
+        ],
+        "desc1":"Вариативный электронный замок Golden Soft GS-H-2030 имеет роскошный глянцевый блеск, четкие линии, красивые формы – этот замок сразу заявляет о своем высоком статусе. ",
+        "desc2":"Подходит для установки на деревянную/межкомнатную дверь."
+    },
+    {
+        "productName":"",
+    }
+    ]
+}
